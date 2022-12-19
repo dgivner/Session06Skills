@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+    <Name>Application Session06Skills</Name>
+    <Assembly>Session06Skills.dll</Assembly>
+    <FullClassName>Session06Skills.App</FullClassName>
+    <ClientId>ed2eb88a-e605-4c25-98d1-69c7446b6345</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
