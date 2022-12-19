@@ -107,8 +107,8 @@ namespace Session06Skills
 
 
             //step 6: Create buttons
-            panel1.AddItem(pData1);
-            panel1.AddItem(pData2);
+            PushButton button1 = panel1.AddItem(pData1) as PushButton;
+            PushButton button2 = panel1.AddItem(pData2) as PushButton;
 
             panel2.AddStackedItems(pData3, pData4, pData5);
 
